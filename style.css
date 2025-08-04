@@ -1,0 +1,12 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. Feel free to play around with text, font, colors, and more, and don't be afraid to look on google for new CSS tips and tricks!*/
+
+/* The body essentially overhauls the entire body section in the HTML code, here you can essentially change whatever you'd like about your website. 
+In this example, we have specific background color which uses rgb values, the color of the text, the type of font you can use, and how you can align the text. */
+
+body {
+    background-color: rgb(128, 128, 128);
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+  }
